@@ -1,12 +1,12 @@
 ---
-title: Home
+title: About
 layout: page
 author: febo
 permalink: /
 source-id: 1ovpFglk2Wv-fa6tvzOGvG3a7-_4WFjUMfLqAMnTrcOE
 published: true
 ---
-# About me 
+# Bio
 
 Anthony Febo is a Puerto Rican artist from Lowell, MA. Febo lives at the intersection of poetry, theatre, performance art, mixed media, and education. With the help of his community, he created the slam poetry scene in the city that birthed and raised him. 
 

@@ -1,11 +1,11 @@
-title: Stack Problems
+title: Slings
 description: My Personal Stack Problems
-author: Agus Makmun
+author: Anthony Febo
 github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
+about: Active Virgo and your friendly neighborhood Boricua. Exploring identity, representation, and crying. Soooo much crying
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+avatar_url: # /static/img/avatar.jpg
 
 enableTags: true
 tagarray: []
@@ -32,11 +32,11 @@ share:
   fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
-      url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
+    - text: Slings
+      url: /slings/
+    - text: Notebooks
+      url: /notebooks/
+    - text: RSSFeed
       url: /feed.xml
 
 url: "https://agusmakmun.github.io"
